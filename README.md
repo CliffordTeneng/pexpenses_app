@@ -4,12 +4,12 @@ A Persional Expensis App Designed for practice, The project is fully complete.
 
 ## How to run it
 
--> Download and Install Flutter
--> Download and Install Android Studio
--> Clone the reposisty
--> Import the project on Android Studio as Gradle.
--> Or open with VsCode and run "flutter pub get"
--> Connect your Android phone to your PC and hit f5 or run "flutter run"
+- Download and Install Flutter
+- Download and Install Android Studio
+- Clone the reposisty
+- Import the project on Android Studio as Gradle.
+- Or open with VsCode and run "flutter pub get"
+- Connect your Android phone to your PC and hit f5 or run "flutter run"
 
 ## Getting Started
 
